@@ -90,8 +90,7 @@ Sensor1 (MASTER) -> Pin 9
 Sensor2          -> Pin 11  
 Sensor3          -> Pin 7  
 
-
-> Ensure your sensors output clean HIGH/LOW levels.  
+  
 > Hardware must include proper pull-up or pull-down resistors (module-built or external).
 
 ---
